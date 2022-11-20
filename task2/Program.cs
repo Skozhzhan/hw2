@@ -16,7 +16,7 @@ Console.WriteLine("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 if (num <= 99)
 {
-    Console.WriteLine($"Третьей цифры нет");
+    Console.WriteLine("Третьей цифры нет");
 }
 else
 {
